@@ -1,6 +1,6 @@
-# CRUD App with PHP, MySQL, and React
+# CRUD App with PHP, MySQL
 
-This CRUD (Create, Read, Update, Delete) application allows users to manage a list of individuals with name, age, email, and profile photo. It integrates a PHP backend with MySQL for data storage and a React frontend for interactive user interface.
+This CRUD (Create, Read, Update, Delete) application allows users to manage a list of individuals with name, age, email, and profile photo. It integrates a PHP backend with MySQL for data storage.
 
 ## Features
 
@@ -12,7 +12,7 @@ This CRUD (Create, Read, Update, Delete) application allows users to manage a li
 ## Technologies Used
 
 - **Backend:** PHP, MySQL
-- **Frontend:** React
+- **Frontend:** WAmp Server
 - **File Upload:** PHP handling for file uploads
 
 ## Setup Instructions
